@@ -1,0 +1,236 @@
+{
+    "Image_19_Mask_0": {
+        "centroid": {
+            "centroid_x": 1159,
+            "centroid_y": 258
+        },
+        "histogram": {
+            "B": 140.29371387283237,
+            "G": 159.1132476111832,
+            "R": 177.95411317165954
+        },
+        "non_black_percentage": 0.43021797839506176,
+        "depth": {
+            "centroid_x": 1159,
+            "centroid_y": 258,
+            "depth": 635.7770385742188
+        },
+        "arbitrary_value": 205.3693165028587
+    },
+    "Image_19_Mask_1": {
+        "centroid": {
+            "centroid_x": 666,
+            "centroid_y": 846
+        },
+        "histogram": {
+            "B": 65.38537466981788,
+            "G": 124.56977837474815,
+            "R": 112.294914780665
+        },
+        "non_black_percentage": 0.3665605709876543,
+        "depth": {
+            "centroid_x": 666,
+            "centroid_y": 846,
+            "depth": 822.4388427734375
+        },
+        "arbitrary_value": 110.79295744307393
+    },
+    "Image_19_Mask_2": {
+        "centroid": {
+            "centroid_x": 1558,
+            "centroid_y": 429
+        },
+        "histogram": {
+            "B": 58.85325393449596,
+            "G": 53.9778779188857,
+            "R": 76.25423061786698
+        },
+        "non_black_percentage": 0.12485532407407408,
+        "depth": {
+            "centroid_x": 1558,
+            "centroid_y": 429,
+            "depth": 1115.2725830078125
+        },
+        "arbitrary_value": 23.608314209011514
+    },
+    "Image_19_Mask_3": {
+        "centroid": {
+            "centroid_x": 1695,
+            "centroid_y": 717
+        },
+        "histogram": {
+            "B": 90.44012388162423,
+            "G": 111.70215679561794,
+            "R": 121.98517520215633
+        },
+        "non_black_percentage": 0.1466531635802469,
+        "depth": {
+            "centroid_x": 1695,
+            "centroid_y": 717,
+            "depth": 1039.390625
+        },
+        "arbitrary_value": 47.53431680793069
+    },
+    "Image_19_Mask_4": {
+        "centroid": {
+            "centroid_x": 1738,
+            "centroid_y": 817
+        },
+        "histogram": {
+            "B": 78.08030223159375,
+            "G": 126.32801235839341,
+            "R": 130.32400641596863
+        },
+        "non_black_percentage": 0.28988233024691357,
+        "depth": {
+            "centroid_x": 1738,
+            "centroid_y": 817,
+            "depth": 1010.136962890625
+        },
+        "arbitrary_value": 97.03298522216436
+    },
+    "Image_19_Mask_5": {
+        "centroid": {
+            "centroid_x": 816,
+            "centroid_y": 540
+        },
+        "histogram": {
+            "B": 99.73244002593474,
+            "G": 145.13051762464275,
+            "R": 159.4386153515373
+        },
+        "non_black_percentage": 0.4697627314814815,
+        "depth": {
+            "centroid_x": 816,
+            "centroid_y": 540,
+            "depth": 687.4470825195312
+        },
+        "arbitrary_value": 189.92581127573303
+    },
+    "Image_19_Mask_7": {
+        "centroid": {
+            "centroid_x": 1787,
+            "centroid_y": 214
+        },
+        "histogram": {
+            "B": 49.62232289950577,
+            "G": 57.3597181931206,
+            "R": 62.64336542486396
+        },
+        "non_black_percentage": 0.11728395061728394,
+        "depth": {
+            "centroid_x": 1787,
+            "centroid_y": 214,
+            "depth": 1047.09521484375
+        },
+        "arbitrary_value": 19.894337801434048
+    },
+    "Image_19_Mask_8": {
+        "centroid": {
+            "centroid_x": 1102,
+            "centroid_y": 22
+        },
+        "histogram": {
+            "B": 137.80651237890206,
+            "G": 170.77322404371586,
+            "R": 172.7117966295344
+        },
+        "non_black_percentage": 0.1832079475308642,
+        "depth": {
+            "centroid_x": 1102,
+            "centroid_y": 22,
+            "depth": 949.7120971679688
+        },
+        "arbitrary_value": 88.17643393446791
+    },
+    "Image_19_Mask_9": {
+        "centroid": {
+            "centroid_x": 844,
+            "centroid_y": 640
+        },
+        "histogram": {
+            "B": 134.12602169713182,
+            "G": 179.09346603202076,
+            "R": 174.86995044300946
+        },
+        "non_black_percentage": 0.3416763117283951,
+        "depth": {
+            "centroid_x": 844,
+            "centroid_y": 640,
+            "depth": 722.7867431640625
+        },
+        "arbitrary_value": 166.76859902824884
+    },
+    "Image_19_Mask_10": {
+        "centroid": {
+            "centroid_x": 227,
+            "centroid_y": 795
+        },
+        "histogram": {
+            "B": 51.36972778941071,
+            "G": 107.45151169423845,
+            "R": 88.80953836747172
+        },
+        "non_black_percentage": 0.1750096450617284,
+        "depth": {
+            "centroid_x": 227,
+            "centroid_y": 795,
+            "depth": 1021.436279296875
+        },
+        "arbitrary_value": 43.337774538084375
+    },
+    "Image_19_Mask_11": {
+        "centroid": {
+            "centroid_x": 1128,
+            "centroid_y": 330
+        },
+        "histogram": {
+            "B": 72.33894557823129,
+            "G": 95.37951509153885,
+            "R": 98.58991190188289
+        },
+        "non_black_percentage": 0.29909336419753085,
+        "depth": {
+            "centroid_x": 1128,
+            "centroid_y": 330,
+            "depth": 675.0614013671875
+        },
+        "arbitrary_value": 79.65106706642516
+    },
+    "Image_19_Mask_12": {
+        "centroid": {
+            "centroid_x": 700,
+            "centroid_y": 333
+        },
+        "histogram": {
+            "B": 154.27179236043094,
+            "G": 181.39392981346822,
+            "R": 189.26068031597615
+        },
+        "non_black_percentage": 0.32807677469135804,
+        "depth": {
+            "centroid_x": 700,
+            "centroid_y": 333,
+            "depth": 687.3851318359375
+        },
+        "arbitrary_value": 172.21616107921594
+    },
+    "Image_19_Mask_13": {
+        "centroid": {
+            "centroid_x": 1332,
+            "centroid_y": 530
+        },
+        "histogram": {
+            "B": 127.0950054830027,
+            "G": 172.57378161030908,
+            "R": 181.1782561253844
+        },
+        "non_black_percentage": 0.5111882716049383,
+        "depth": {
+            "centroid_x": 1332,
+            "centroid_y": 530,
+            "depth": 641.558349609375
+        },
+        "arbitrary_value": 245.80336892931035
+    }
+}

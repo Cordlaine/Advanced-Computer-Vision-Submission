@@ -1,0 +1,146 @@
+{
+    "Image_20_Mask_0": {
+        "centroid": {
+            "centroid_x": 1771,
+            "centroid_y": 493
+        },
+        "histogram": {
+            "B": 54.72028505981166,
+            "G": 50.30552054449206,
+            "R": 75.12143214822234
+        },
+        "non_black_percentage": 0.19960455246913583,
+        "depth": {
+            "centroid_x": 1771,
+            "centroid_y": 493,
+            "depth": 1021.5122680664062
+        },
+        "arbitrary_value": 35.958208770143976
+    },
+    "Image_20_Mask_1": {
+        "centroid": {
+            "centroid_x": 1556,
+            "centroid_y": 687
+        },
+        "histogram": {
+            "B": 132.94752126114915,
+            "G": 178.14865696124667,
+            "R": 185.36283124610807
+        },
+        "non_black_percentage": 0.7257908950617284,
+        "depth": {
+            "centroid_x": 1556,
+            "centroid_y": 687,
+            "depth": 572.5577392578125
+        },
+        "arbitrary_value": 360.3254288436046
+    },
+    "Image_20_Mask_2": {
+        "centroid": {
+            "centroid_x": 1870,
+            "centroid_y": 829
+        },
+        "histogram": {
+            "B": 96.2340579710145,
+            "G": 109.65172494719549,
+            "R": 121.05533317635978
+        },
+        "non_black_percentage": 0.21416859567901236,
+        "depth": {
+            "centroid_x": 1870,
+            "centroid_y": 829,
+            "depth": 959.873046875
+        },
+        "arbitrary_value": 70.02051970370296
+    },
+    "Image_20_Mask_3": {
+        "centroid": {
+            "centroid_x": 771,
+            "centroid_y": 848
+        },
+        "histogram": {
+            "B": 70.42558711086838,
+            "G": 120.34478641549482,
+            "R": 109.92925189128607
+        },
+        "non_black_percentage": 0.36839313271604934,
+        "depth": {
+            "centroid_x": 771,
+            "centroid_y": 848,
+            "depth": 797.7561645507812
+        },
+        "arbitrary_value": 110.77567701415039
+    },
+    "Image_20_Mask_4": {
+        "centroid": {
+            "centroid_x": 1386,
+            "centroid_y": 391
+        },
+        "histogram": {
+            "B": 119.29215822345593,
+            "G": 142.26003927344132,
+            "R": 155.99577706849988
+        },
+        "non_black_percentage": 1.0119598765432098,
+        "depth": {
+            "centroid_x": 1386,
+            "centroid_y": 391,
+            "depth": 565.5052490234375
+        },
+        "arbitrary_value": 422.5417967920666
+    },
+    "Image_20_Mask_5": {
+        "centroid": {
+            "centroid_x": 1891,
+            "centroid_y": 949
+        },
+        "histogram": {
+            "B": 82.69504475005458,
+            "G": 129.1677031509121,
+            "R": 122.93914544669832
+        },
+        "non_black_percentage": 0.23832947530864199,
+        "depth": {
+            "centroid_x": 1891,
+            "centroid_y": 949,
+            "depth": 941.8466186523438
+        },
+        "arbitrary_value": 79.79315957388891
+    },
+    "Image_20_Mask_6": {
+        "centroid": {
+            "centroid_x": 878,
+            "centroid_y": 378
+        },
+        "histogram": {
+            "B": 164.94022988505748,
+            "G": 194.7226432655232,
+            "R": 201.12129666533812
+        },
+        "non_black_percentage": 0.3841145833333333,
+        "depth": {
+            "centroid_x": 878,
+            "centroid_y": 378,
+            "depth": 627.0418701171875
+        },
+        "arbitrary_value": 215.4053777287709
+    },
+    "Image_20_Mask_7": {
+        "centroid": {
+            "centroid_x": 975,
+            "centroid_y": 605
+        },
+        "histogram": {
+            "B": 103.27309626753728,
+            "G": 144.79725836025494,
+            "R": 159.50184891706286
+        },
+        "non_black_percentage": 0.5704089506172839,
+        "depth": {
+            "centroid_x": 975,
+            "centroid_y": 605,
+            "depth": 638.9257202148438
+        },
+        "arbitrary_value": 232.48283292479482
+    }
+}

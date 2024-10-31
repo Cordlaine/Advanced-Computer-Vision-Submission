@@ -1,0 +1,164 @@
+{
+    "Image_12_Mask_1": {
+        "centroid": {
+            "centroid_x": 1652,
+            "centroid_y": 117
+        },
+        "histogram": {
+            "B": 73.17737820434941,
+            "G": 107.77170107448993,
+            "R": 115.71911220715167
+        },
+        "non_black_percentage": 0.4105902777777778,
+        "depth": {
+            "centroid_x": 1652,
+            "centroid_y": 117,
+            "depth": 699.06005859375
+        },
+        "arbitrary_value": 121.809075150064
+    },
+    "Image_12_Mask_2": {
+        "centroid": {
+            "centroid_x": 411,
+            "centroid_y": 963
+        },
+        "histogram": {
+            "B": 74.13595342066958,
+            "G": 153.83881303984396,
+            "R": 146.85724929220683
+        },
+        "non_black_percentage": 0.35604745370370366,
+        "depth": {
+            "centroid_x": 411,
+            "centroid_y": 963,
+            "depth": null
+        },
+        "arbitrary_value": 133.45798477538264
+    },
+    "Image_12_Mask_3": {
+        "centroid": {
+            "centroid_x": 1019,
+            "centroid_y": 168
+        },
+        "histogram": {
+            "B": 132.7975319926874,
+            "G": 135.62624487404804,
+            "R": 185.676048079742
+        },
+        "non_black_percentage": 0.3499228395061728,
+        "depth": {
+            "centroid_x": 1019,
+            "centroid_y": 168,
+            "depth": 560.8104248046875
+        },
+        "arbitrary_value": 158.8999001645274
+    },
+    "Image_12_Mask_4": {
+        "centroid": {
+            "centroid_x": 1623,
+            "centroid_y": 511
+        },
+        "histogram": {
+            "B": 95.70449840015057,
+            "G": 118.95800331552772,
+            "R": 138.33760606607692
+        },
+        "non_black_percentage": 0.2698688271604938,
+        "depth": {
+            "centroid_x": 1623,
+            "centroid_y": 511,
+            "depth": 772.8236083984375
+        },
+        "arbitrary_value": 95.26372507459018
+    },
+    "Image_12_Mask_5": {
+        "centroid": {
+            "centroid_x": 1802,
+            "centroid_y": 668
+        },
+        "histogram": {
+            "B": 88.12462503408781,
+            "G": 129.97214783074452,
+            "R": 132.95605602856358
+        },
+        "non_black_percentage": 0.1886574074074074,
+        "depth": {
+            "centroid_x": 1802,
+            "centroid_y": 668,
+            "depth": 740.6115112304688
+        },
+        "arbitrary_value": 66.22871656206428
+    },
+    "Image_12_Mask_6": {
+        "centroid": {
+            "centroid_x": 1639,
+            "centroid_y": 773
+        },
+        "histogram": {
+            "B": 52.49622321566209,
+            "G": 92.7863492541811,
+            "R": 99.80412208936438
+        },
+        "non_black_percentage": 0.32696759259259256,
+        "depth": {
+            "centroid_x": 1639,
+            "centroid_y": 773,
+            "depth": 725.581298828125
+        },
+        "arbitrary_value": 80.13540649650015
+    },
+    "Image_12_Mask_7": {
+        "centroid": {
+            "centroid_x": 1491,
+            "centroid_y": 1036
+        },
+        "histogram": {
+            "B": 86.61515009380864,
+            "G": 115.32657294307444,
+            "R": 124.61482180788293
+        },
+        "non_black_percentage": 0.22000385802469136,
+        "depth": {
+            "centroid_x": 1491,
+            "centroid_y": 1036,
+            "depth": 701.813720703125
+        },
+        "arbitrary_value": 71.84369972906165
+    },
+    "Image_12_Mask_8": {
+        "centroid": {
+            "centroid_x": 1126,
+            "centroid_y": 159
+        },
+        "histogram": {
+            "B": 135.53504287598943,
+            "G": 150.8306073806197,
+            "R": 187.69436084270552
+        },
+        "non_black_percentage": 0.6182484567901235,
+        "depth": {
+            "centroid_x": 1126,
+            "centroid_y": 159,
+            "depth": 546.6126098632812
+        },
+        "arbitrary_value": 293.08687028806014
+    },
+    "Image_12_Mask_9": {
+        "centroid": {
+            "centroid_x": 767,
+            "centroid_y": 178
+        },
+        "histogram": {
+            "B": 84.21007966747489,
+            "G": 89.0874162848079,
+            "R": 96.69151396548656
+        },
+        "non_black_percentage": 0.28679591049382713,
+        "depth": {
+            "centroid_x": 767,
+            "centroid_y": 178,
+            "depth": null
+        },
+        "arbitrary_value": 77.43174392269358
+    }
+}
